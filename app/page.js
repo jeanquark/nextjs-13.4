@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1>NextJS 13.4</h1>
+      <h2>Test</h2>
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
